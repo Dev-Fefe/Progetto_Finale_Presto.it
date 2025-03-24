@@ -1,13 +1,22 @@
-Presto.it - Il Marketplace di Annunci Online
-Presto.it è una piattaforma di annunci online, simile a Subito.it, che permette agli utenti di comprare e vendere prodotti in modo rapido e sicuro. Sviluppato come progetto finale Aulab, il sito offre un'esperienza intuitiva e moderna per la gestione degli annunci.
+Presto.it - Marketplace di Annunci Online 🚀
+Presto.it è una piattaforma di annunci online, simile a Subito.it, sviluppata con Laravel come progetto finale del corso Aulab. Il sito permette agli utenti di vendere e acquistare prodotti in modo semplice, sicuro e intuitivo.
+
+🛠️ Tecnologie Utilizzate
+Laravel: Framework PHP per una struttura robusta e scalabile.
+
+Blade: Template engine per una UI dinamica e performante.
+
+MySQL: Database per la gestione degli annunci e degli utenti.
+
+JavaScript: Per un'esperienza utente interattiva e reattiva.
 
 🔥 Funzionalità principali
-Pubblicazione di annunci 📢: Gli utenti registrati possono creare annunci con descrizioni dettagliate e immagini.
+Pubblicazione di annunci 📢: Gli utenti registrati possono creare e gestire i propri annunci.
 
-Ricerca avanzata 🔍: Possibilità di trovare annunci con una ricerca full-text efficiente.
+Ricerca avanzata 🔍: Supporto full-text per trovare rapidamente gli annunci desiderati.
 
-Gestione immagini 🖼️: Caricamento di più foto, crop automatico e watermark personalizzato.
+Gestione immagini 🖼️: Upload multiplo, crop automatico e watermark personalizzato.
 
-Sicurezza e moderazione ✅: Gli annunci vengono approvati prima della pubblicazione per garantire qualità e affidabilità.
+Sicurezza e moderazione ✅: Gli annunci vengono approvati prima della pubblicazione.
 
-Supporto multi-lingua 🌍: Interfaccia disponibile in diverse lingue per un'esperienza accessibile a tutti.
+Supporto multi-lingua 🌍: Interfaccia disponibile in diverse lingue.
